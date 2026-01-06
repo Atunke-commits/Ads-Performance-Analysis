@@ -9,15 +9,21 @@ The dataset contains **2601** columns and **12** rows, which were initially uncl
 - Conversion Efficiency
 - Future marketing predictions
 - Insights and Recommendation
-## Data Cleaning and Preparation (EXCEL)
+## Data Cleaning and Preparation
 - Standardized Column formatting
 - Removed Inconsistencies and Duplicates
 - Accurate Alignment between Clicks, Leads, Conversion, Cost, Sales
-## Data Visualization (POWERBI)
+
+  [[Uploading Goggle Ads_DataAnalytics_Sales.csv…]()]
+  
+## Data Visualization 
 Built interactive Dashboards using POWERBI to uncover trends and KPIs
 - Traffic Performance Breakdown
 - Keywords Performance
 - Leads and Conversion Chart
+
+![Goggle ADs Dashboaard (2)](https://github.com/user-attachments/assets/aee0cb68-2733-48bb-a47e-8515812e8248)]
+
 ## Key Insights
    **Performance Metrics:**
 - Average Conversion Rate: **5%**
@@ -39,4 +45,7 @@ Since Mobile devices drives the most clicks, campaigns should be further optimiz
 Reinvest in channels showing high ROI 
 - Implement a Monitoring Alert
 Set up an automated system that Immediately flags a sudden drop in sales, to prevent future revenue loss or budget exhaustion
+## Tools 
+POWERBI ||
+EXCEL
 
