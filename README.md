@@ -14,7 +14,7 @@ The dataset contains **2601** columns and **12** rows, which were initially uncl
 - Removed Inconsistencies and Duplicates
 - Accurate Alignment between Clicks, Leads, Conversion, Cost, Sales
 
-  [[Uploading Goggle Ads_DataAnalytics_Sales.csv…]()]
+* [Uploading Goggle Ads_DataAnalytics_Sales.csv…]())
   
 ## Data Visualization 
 Built interactive Dashboards using POWERBI to uncover trends and KPIs
