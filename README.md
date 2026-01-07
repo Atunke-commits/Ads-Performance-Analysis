@@ -1,4 +1,4 @@
-# Digital Marketing Campaign Report
+# Digital Marketing Campaign Analysis
 ## Project Overview 
 This project focuses on analyzing advertising campaign performance data which spans across one month.
 The dataset contains **2601** columns and **12** rows, which were initially unclean and inconsistent.
